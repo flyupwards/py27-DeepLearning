@@ -1,2 +1,2 @@
-# py27-DeepLearning
-DeepLearning Algorithm(python 2.7)
+# Deep Learning
+Deep learning algorithms source code for beginners(python 2.7)
